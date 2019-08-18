@@ -1,0 +1,43 @@
+<DatePicker
+    android:id="@+id/datePicker"
+    android:layout_gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"></DatePicker>
+
+<Button
+    android:id="@+id/getDate"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="获取日期" />
+
+<Button
+    android:id="@+id/setDate"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="定位日期" />
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_weight="1"
+        android:id="@+id/year"
+        android:hint="year"
+        android:inputType="phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_weight="1"
+        android:id="@+id/month"
+        android:hint="month"
+        android:inputType="phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_weight="1"
+        android:id="@+id/day"
+        android:hint="day"
+        android:inputType="phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

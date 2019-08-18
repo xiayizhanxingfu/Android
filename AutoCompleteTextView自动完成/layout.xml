@@ -1,0 +1,8 @@
+<AutoCompleteTextView
+    android:id="@+id/auto"
+    android:completionHint="请选择内容"
+    android:completionThreshold="1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+    <!--completionHint 设置出现在下拉菜单中的提示标题  -->
+    <!--completionThreshold 设置用户至少输入几个字符才会显示提示-->

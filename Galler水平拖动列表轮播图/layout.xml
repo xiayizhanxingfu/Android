@@ -1,0 +1,6 @@
+<Gallery
+    android:id="@+id/gallery"
+    android:spacing="10dp"
+    android:unselectedAlpha="100"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"></Gallery>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+   <LinearLayout
+       android:id="@+id/tab01"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+   </LinearLayout>
+   <LinearLayout
+       android:id="@+id/tab02"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="15136651167"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="12738972347"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+   </LinearLayout>
+   <LinearLayout
+       android:id="@+id/tab03"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+      <TextView
+          android:text="one"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+      <TextView
+          android:text="two"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+   </LinearLayout>
+</TabHost>

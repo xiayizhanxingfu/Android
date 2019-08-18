@@ -1,0 +1,9 @@
+<!-- 模拟时钟 -->
+<AnalogClock
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content" />
+<!-- 数字时钟 -->
+<DigitalClock
+	android:textSize="14pt"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
